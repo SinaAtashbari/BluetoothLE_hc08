@@ -1,5 +1,5 @@
 # BluetoothLE_hc08
-This repository contains a lightweight and simple Bluetooth Low Energy (BLE) source code designed to facilitate quick development and easy integration with HC08 and other BLE devices.
+This repository contains a lightweight and simple Bluetooth Low Energy (BLE) Andriod source code using kotlin designed to facilitate quick development and easy integration with HC08 and other BLE devices.
 Please note that this source code is not intended to provide an exhaustive or comprehensive solution for all BLE use cases. It focuses on simplicity and speed, providing a basic foundation to get started with BLE communication.
 To gain a deeper understanding of Bluetooth Low Energy and explore advanced features, it is highly recommended to visit the following websites:
 [The Ultimate Guide to Android Bluetooth Low Energy](punchthrough.com/android-ble-guide)
